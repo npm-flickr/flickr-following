@@ -1,6 +1,6 @@
 {
   "name": "flickr-following",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "List the people given user follows on Flickr",
   "main": "index.js",
   "scripts": {
