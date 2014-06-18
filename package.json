@@ -20,7 +20,7 @@
   "author": "azer",
   "license": "BSD",
   "dependencies": {
-    "flickr-client": "0.0.2"
+    "flickr-client": "0.0.x"
   },
   "devDependencies": {
     "with-env": "^0.1.0",
