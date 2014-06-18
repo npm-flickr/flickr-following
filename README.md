@@ -20,7 +20,7 @@ following('user-id', function (error, users) {
   // => 400
 
   users[0]
-  { "nsid": "49575362@N05", "username": "**mog**", "iconserver": "3770", "iconfarm": 4, "ignored": 0, "rev_ignored": 0 }
+  // => { "nsid": "49575362@N05", "username": "**mog**", "iconserver": "3770", "iconfarm": 4, "ignored": 0, "rev_ignored": 0 }
 })
 ```
 
